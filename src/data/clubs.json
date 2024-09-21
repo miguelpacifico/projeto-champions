@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "name": "Real Madrid"
+    },
+    {
+      "id": 2,
+      "name": "Barcelona"
+    },
+    {
+      "id": 3,
+      "name": "Paris Saint-Germain"
+    },
+    {
+      "id": 4,
+      "name": "Arsenal"
+    },
+    {
+      "id": 5,
+      "name": "Aston Villa"
+    },
+    {
+      "id": 6,
+      "name": "Liverpool"
+    },
+    {
+      "id": 7,
+      "name": "Manchester City"
+    },
+    {
+      "id": 8,
+      "name": "Bayern München"
+    },
+    {
+      "id": 9,
+      "name": "Borussia Dortmund"
+    },
+    {
+      "id": 10,
+      "name": "Leipzig"
+    },
+    {
+      "id": 11,
+      "name": "Leverkusen"
+    },
+    {
+      "id": 12,
+      "name": "Stuttgart"
+    },
+    {
+      "id": 13,
+      "name": "Atlético de Madrid"
+    },
+    {
+      "id": 14,
+      "name": "Girona"
+    },
+    {
+      "id": 15,
+      "name": "Atalanta"
+    },
+    {
+      "id": 16,
+      "name": "Inter de Milão"
+    },
+    {
+      "id": 17,
+      "name": "Juventus"
+    },
+    {
+      "id": 18,
+      "name": "Milan"
+    },
+    {
+      "id": 19,
+      "name": "Brest"
+    },
+    {
+      "id": 20,
+      "name": "Lille"
+    },
+    {
+      "id": 21,
+      "name": "Mônaco"
+    },
+    {
+      "id": 22,
+      "name": "Benfica"
+    },
+    {
+      "id": 23,
+      "name": "Sporting CP"
+    },
+    {
+      "id": 24,
+      "name": "Celtic"
+    },
+    {
+      "id": 25,
+      "name": "Club Brugge"
+    },
+    {
+      "id": 26,
+      "name": "Crvena Zvezda"
+    },
+    {
+      "id": 27,
+      "name": "Dinamo Zagreb"
+    },
+    {
+      "id": 28,
+      "name": "Feyenoord"
+    },
+    {
+      "id": 29,
+      "name": "GNK Dinamo"
+    },
+    {
+      "id": 30,
+      "name": "Malmö"
+    },
+    {
+      "id": 31,
+      "name": "PSV"
+    },
+    {
+      "id": 32,
+      "name": "Salzburg"
+    },
+    {
+      "id": 33,
+      "name": "Shakhtar Donetsk"
+    },
+    {
+      "id": 34,
+      "name": "Sparta Praha"
+    },
+    {
+      "id": 35,
+      "name": "Sturm Graz"
+    },
+    {
+      "id": 36,
+      "name": "Young Boys"
+    }
+  ]
+  
